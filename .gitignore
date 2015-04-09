@@ -1,0 +1,36 @@
+#Ignore everything:
+*
+
+#Git files:
+!.gitignore
+!LICENSE
+!README.md
+
+#Whitelist directories:
+!*/
+
+#Top-level files
+!ArtOfTheCatch.esp
+
+#Interface
+!Interface/ArtOfTheCatch/*
+!Interface/Translations/ArtOfTheCatch_*.txt
+!Interface/exported/widgets/ArtOfTheCatch/*
+
+#Meshes
+!Meshes/ArtOfTheCatch/*
+!Meshes/actors/character/animations/ArtOfTheCatch/*
+!Meshes/actors/character/behaviors/*
+
+#Readmes
+!readmes/ArtOfTheCatch*.txt
+
+#Sound
+!sound/fx/ArtOfTheCatch/*
+
+#Scripts
+!_Fish_*.pex
+!_Fish_*.psc
+
+#Textures
+!textures/ArtOfTheCatch/*

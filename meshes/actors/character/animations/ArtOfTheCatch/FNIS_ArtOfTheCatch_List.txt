@@ -1,0 +1,5 @@
+s -a,Tn,B0.4 FishingCastAnimEvent FishCast.hkx
++ FishingIdleAnimEvent FishIdle.hkx
+b FishingPullCenterAnimEvent FishPullCenter.hkx
+b FishingPullLeftAnimEvent FishPullLeft.hkx
+b FishingPullRightAnimEvent FishPullRight.hkx
