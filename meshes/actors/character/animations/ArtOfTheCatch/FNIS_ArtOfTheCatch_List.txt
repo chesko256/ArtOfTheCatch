@@ -1,3 +1,5 @@
+Version V1.0.1
+
 s -a,Tn,B0.4 FishingCastAnimEvent FishCast.hkx
 + FishingIdleAnimEvent FishIdle.hkx
 b FishingPullCenterAnimEvent FishPullCenter.hkx
